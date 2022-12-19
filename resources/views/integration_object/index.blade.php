@@ -20,7 +20,7 @@
             <div class="col-md-10">
                 <select class="form-select" name="name_id" id="name_id">
                     <option value="">-- All --</option>
-                    <option value="HoldingRegister2.1.">HoldingRegister2.1.</option>
+                    <option value="HoldingRegister2.1.">HoldingRegister2.1.1</option>
                     <option value="HoldingRegister2.2.">HoldingRegister2.2.</option>
                     <option value="HoldingRegister2.3.">HoldingRegister2.3.</option>
                     <option value="HoldingRegister2.4.">HoldingRegister2.4.</option>
